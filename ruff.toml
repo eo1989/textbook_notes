@@ -1,7 +1,7 @@
-# extend = "*.ipynb"
+extend = "*.ipynb"
 # extend-include = ["*.ipynb"]
-line-length    = 88
-target-version = "py311"
+line-length    = 80
+target-version = "py312"
 
 fixable   = ["ALL"]
 unfixable = []
@@ -45,7 +45,7 @@ select = [
     "RET",
     "SIM",
     "TID",
-    "TCH",
+    "TC",
     "PL",
     "TRY",
     "PD",

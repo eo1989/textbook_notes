@@ -9,7 +9,7 @@ format:
     toc: true
     number-selections: true
     colorlinks: true
-jupyter: py3125_base
+jupyter: python3  # or gen
 execute:
   enabled: true
   freeze: auto  # re-render only when source changes
