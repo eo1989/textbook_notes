@@ -133,9 +133,6 @@
 [submodule "Casaul-Inference-with-Bayesian-Networks"]
 	path = Casaul-Inference-with-Bayesian-Networks
 	url = https://github.com/PacktPublishing/Causal-Inference-with-Bayesian-Networks.git
-[submodule "Data-Augmentation-with-Python"]
-	path = Data-Augmentation-with-Python
-	url = https://github.com/PacktPublishing/Data-Augmentation-with-Python.git
 [submodule "MSFT-Power-Apps-Cookbook-3E"]
 	path = MSFT-Power-Apps-Cookbook-3E
 	url = https://github.com/PacktPublishing/Microsoft-Power-Apps-Cookbook-Third-Edition.git
@@ -163,8 +160,8 @@
 [submodule "Streamlit-Cookbook"]
 	path = Streamlit-Cookbook
 	url = https://github.com/PacktPublishing/Streamlit-Cookbook.git
-[submodule "Implmenting-Analytics-Solutions-Using-MSFT-Fabric-DP600-Exam-Study-Guide"]
-	path = Implmenting-Analytics-Solutions-Using-MSFT-Fabric-DP600-Exam-Study-Guide
+[submodule "Implementing-Analytics-Solutions-Using-MSFT-Fabric-DP600-Exam-Study-Guide"]
+	path = Implementing-Analytics-Solutions-Using-MSFT-Fabric-DP600-Exam-Study-Guide
 	url = https://github.com/PacktPublishing/Implementing-Analytics-Solutions-Using-Microsoft-Fabric-DP-600-Exam-Study-Guide.git
 [submodule "Learn-MSFT-PowerBI-3E"]
 	path = Learn-MSFT-PowerBI-3E
@@ -319,9 +316,9 @@
 [submodule "Mastering-MSFT-Fabric"]
 	path = Mastering-MSFT-Fabric
 	url = https://github.com/Apress/Mastering_Microsoft_Fabric.git
-[submodule "Quantiative-Trading-Strategies-Using-Python"]
-	path = Quantiative-Trading-Strategies-Using-Python
-	url = https://github.com/Apress/Quantitative-Trading-Strategies-Using-Python.git
+[submodule "Quantitative-Trading-Strategies-Using-Python"]
+	path = Quantitative-Trading-Strategies-Using-Python
+	url = https://github.com/Apress/Quantitative-Trading-Strategies-Using-Python
 [submodule "PowerBI-Compendium"]
 	path = PowerBI-Compendium
 	url = https://github.com/Apress/A-Power-BI-Compendium.git
@@ -373,3 +370,14 @@
 [submodule "Beginners-Guide-to-Streamlit-with-Python"]
 	path = Beginners-Guide-to-Streamlit-with-Python
 	url = https://github.com/Apress/beginners-guide-streamlit-python.git
+[submodule "Implementing-Analytics-Solutions-Using-Microsoft-Fabric-DP-600-Exam-Study-Guide"]
+	path = Implementing-Analytics-Solutions-Using-Microsoft-Fabric-DP-600-Exam-Study-Guide
+	url = https://github.com/PacktPublishing/Implementing-Analytics-Solutions-Using-Microsoft-Fabric-DP-600-Exam-Study-Guide
+# [submodule "--force"]
+# 	path = --force
+# 	url = https://github.com/PacktPublishing/Data-Augmentation-with-Python
+
+# vim: set ft=gitconfig commentstring=#
+[submodule "Data-Augmentation-with-Python"]
+	path = Data-Augmentation-with-Python
+	url = https://github.com/PacktPublishing/Data-Augmentation-with-Python.git
