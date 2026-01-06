@@ -7,7 +7,8 @@ import mpl_toolkits.mplot3d.axes3d as Axes3D
 from scipy.interpolate import RegularGridInterpolator
 
 
-# %%
+# %
+
 class OptionType(Enum):
     CALL = 1.0
     PUT = -1.0

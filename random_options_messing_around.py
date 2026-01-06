@@ -47,17 +47,21 @@ def opt(S: float, K: float, r: float, sigma: float, ttm: float, c_or_p: str) -> 
         return (S*N(d1) - K*np.exp(-r * ttm)*N(d2))
     else:
         return (K*np.exp(-r*ttm) * N(-d2) - S*N(-d1))
+
 # %%
 from IPython.display import display, Latex, display_latex
 from IPython.display import display, Markdown, display_markdown
 
 display(Latex("""
+$$
 Option price w/ respect to underlying:
 \delta = \frac{\partial V}{\partial S}
 \gamma = \frac{\partial^2 V}{\partial S^2}
 
 \frac{\delta p}{\delta S} = \frac{delta c}$${\delta S}
+$$
 """))
+
 # display_latex("""
 # Option price w/ respect to underlying:
 # \delta = \frac{\partial V}{\partial S}
@@ -65,6 +69,7 @@ Option price w/ respect to underlying:
 
 # \frac{\delta p}{\delta S} = \frac{delta c}{\delta S}
 # """, raw = True)
+
 s = [i for i in range(0, 101)]
 c = [opt(S = i, K = 50, r = 0.04, sigma = 0.3, ttm = 1, c_or_p="call") for i in range(0, 101)]
 p = [opt(S = i, K = 50, r = 0.04, sigma = 0.3, ttm = 1, c_or_p="put") for i in range(0, 101)]

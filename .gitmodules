@@ -1,6 +1,3 @@
-[submodule "PythonDataScienceHandbook"]
-	path = PythonDataScienceHandbook
-	url = https://github.com/jakevdp/PythonDataScienceHandbook.git
 [submodule "pydata-book"]
 	path = pydata-book
 	url = https://github.com/wesm/pydata-book.git
@@ -240,7 +237,7 @@
 	url = https://github.com/PacktPublishing/Microsoft-Power-BI-Performance-Best-Practices-Second-Edition.git
 [submodule "Deep-Learning-with-PyTorch"]
 	path = Deep-Learning-with-PyTorch
-	url = https://github.com/PacktPublishing/Deep-Learning-with-PyTorch..git
+	url = https://github.com/PacktPublishing/Deep-Learning-with-PyTorch.git
 [submodule "PowerBI-Cookbook-3E"]
 	path = PowerBI-Cookbook-3E
 	url = https://github.com/PacktPublishing/Power-BI-Cookbook-Third-Edition.git
@@ -373,11 +370,8 @@
 [submodule "Implementing-Analytics-Solutions-Using-Microsoft-Fabric-DP-600-Exam-Study-Guide"]
 	path = Implementing-Analytics-Solutions-Using-Microsoft-Fabric-DP-600-Exam-Study-Guide
 	url = https://github.com/PacktPublishing/Implementing-Analytics-Solutions-Using-Microsoft-Fabric-DP-600-Exam-Study-Guide
-# [submodule "--force"]
-# 	path = --force
-# 	url = https://github.com/PacktPublishing/Data-Augmentation-with-Python
-
-# vim: set ft=gitconfig commentstring=#
 [submodule "Data-Augmentation-with-Python"]
 	path = Data-Augmentation-with-Python
 	url = https://github.com/PacktPublishing/Data-Augmentation-with-Python.git
+
+# vim: set ft=gitconfig commentstring=#
