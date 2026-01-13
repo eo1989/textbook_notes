@@ -35,15 +35,16 @@ Using data from ![data](../data/option_sample_data.csv) the following code will 
 
 # Refresher:
 $$
-\begin{aligned}
-& \diamondsuit \text{BSM Formula} \diamondsuit \\
-& C = S_{0}\phi(d_{1})- e^{-rT}K\phi(d_{2}) \\
-& P = e^{-rT}K\phi(-d_{2})-S_{0}\phi(-d_{1}) \\
-& \text{where:} \\
-& d_{1} = \frac{1}{\sigma\sqrt{T}}\big(ln\frac{S_{0}}{K}+(r+\frac{\sigma^{2}}{2})T), \\
-& d_{2} = \frac{1}{\sigma\sqrt{T}}\big(ln\frac{S_{0}}{K}+(r-\frac{\sigma^{2}}{2})T) \\
-\end{aligned}
+\begin{align*}
+\underline{\text{BSM Formula}} \\
+C = S_{0}\phi(d_{1})- e^{-rT}K\phi(d_{2}) \\
+P = e^{-rT}K\phi(-d_{2})-S_{0}\phi(-d_{1}) \\
+\text{where:} \\
+ d_{1} = \frac{1}{\sigma\sqrt{T}}\big(ln\frac{S_{0}}{K}+(r+\frac{\sigma^{2}}{2})T)
+ \\ d_{2} = \frac{1}{\sigma\sqrt{T}}\big(ln\frac{S_{0}}{K}+(r-\frac{\sigma^{2}}{2})T)
+\end{align*}
 $$
+
 It is one of the fastest formulas used to estimate the approximate premium of an option. The code to create it is:
 ```{python}
 # Using jax instead
@@ -133,6 +134,7 @@ Notation:
 import numpy as np
 from scipy.stats import norm
 
+
 def call_option_price(S, K, T, r, sigma):
     """
     Compute the Black-Scholes price of a call option.
@@ -152,6 +154,7 @@ def call_option_price(S, K, T, r, sigma):
     call_price = S * norm.cdf(d1) - K * np.exp(-r * T) * norm.cdf(d2)
     return call_price
 
+
 def call_option_delta(S, K, T, r, sigma):
     """
     Compute the Delta of a call option.
@@ -169,6 +172,7 @@ def call_option_delta(S, K, T, r, sigma):
     d1 = (np.log(S / K) + (r + 0.5 * sigma**2) * T) / (sigma * np.sqrt(T))
     delta = norm.cdf(d1)
     return delta
+
 
 # Example usage
 K = np.array([150, 155, 160])  # strikes prices

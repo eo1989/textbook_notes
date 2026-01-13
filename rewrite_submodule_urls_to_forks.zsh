@@ -18,6 +18,9 @@ UPDATE_REMOTES="${UPDATE_REMOTES:-1}"
 FORK_PREFIX="${FORK_PREFIX:-}"
 FORK_NAME_STYLE="${FORK_NAME_STYLE:-owner--repo}"
 
+print -r -- "DEBUG FORK_NAME_STYLE=${FORK_NAME_STYLE:-<unset>}"
+
+
 run() {
     if [[ "$DRY_RUN" == "1" ]]; then
         print -r -- "[dry-run] $*"
@@ -109,7 +112,8 @@ for k in "${PATH_KEYS[@]}"; do
         continue
     fi
 
-    fork_name="$(make_fork_name "$owner" "$repo")"
+    # fork_name="$(make_fork_name "$owner" "$repo")"
+    fork_name="${FORK_PREFIX}${repo}"
     fork_url="https://github.com/${GH_USER}/${fork_name}.git"
 
     print -r -- "== $sm_path =="

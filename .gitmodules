@@ -1,377 +1,359 @@
 [submodule "pydata-book"]
 	path = pydata-book
-	url = https://github.com/wesm/pydata-book.git
+	url = https://github.com/eo1989/wesm--pydata-book.git
 [submodule "LinAlg4DataScience"]
 	path = LinAlg4DataScience
-	url = https://github.com/mikexcohen/LinAlg4DataScience.git
+	url = https://github.com/eo1989/mikexcohen--LinAlg4DataScience.git
 [submodule "Interactive-Data-Visualization-with-Python"]
 	path = Interactive-Data-Visualization-with-Python
-	url = https://github.com/TrainingByPackt/Interactive-Data-Visualization-with-Python.git
+	url = https://github.com/eo1989/TrainingByPackt--Interactive-Data-Visualization-with-Python.git
 [submodule "Functional-Python-Programming-3rd-Edition"]
 	path = Functional-Python-Programming-3rd-Edition
-	url = https://github.com/PacktPublishing/Functional-Python-Programming-3rd-Edition.git
+	url = https://github.com/eo1989/PacktPublishing--Functional-Python-Programming-3rd-Edition.git
 [submodule "Essential-Statistics-for-Non-STEM-Data-Analysts"]
 	path = Essential-Statistics-for-Non-STEM-Data-Analysts
-	url = https://github.com/PacktPublishing/Essential-Statistics-for-Non-STEM-Data-Analysts.git
+	url = https://github.com/eo1989/PacktPublishing--Essential-Statistics-for-Non-STEM-Data-Analysts.git
 [submodule "oreilly_essential_math_for_data_science_book"]
 	path = oreilly_essential_math_for_data_science_book
-	url = https://github.com/thomasnield/oreilly_essential_math_for_data_science_book.git
+	url = https://github.com/eo1989/thomasnield--oreilly_essential_math_for_data_science_book.git
 [submodule "Machine-Learning-for-High-Risk-Applications-Book"]
 	path = Machine-Learning-for-High-Risk-Applications-Book
-	url = https://github.com/ml-for-high-risk-apps-book/Machine-Learning-for-High-Risk-Applications-Book.git
+	url = https://github.com/eo1989/ml-for-high-risk-apps-book--Machine-Learning-for-High-Risk-Applications-Book.git
 [submodule "oreilly_sql_fundamentals_for_data"]
 	path = oreilly_sql_fundamentals_for_data
-	url = https://github.com/thomasnield/oreilly_sql_fundamentals_for_data.git
+	url = https://github.com/eo1989/thomasnield--oreilly_sql_fundamentals_for_data.git
 [submodule "oreilly_math_fundamentals_data_science"]
 	path = oreilly_math_fundamentals_data_science
-	url = https://github.com/thomasnield/oreilly_math_fundamentals_data_science.git
+	url = https://github.com/eo1989/thomasnield--oreilly_math_fundamentals_data_science.git
 [submodule "oreilly_intro_to_mathematical_optimization"]
 	path = oreilly_intro_to_mathematical_optimization
-	url = https://github.com/thomasnield/oreilly_intro_to_mathematical_optimization.git
+	url = https://github.com/eo1989/thomasnield--oreilly_intro_to_mathematical_optimization.git
 [submodule "oreilly_intermediate_sql_for_data"]
 	path = oreilly_intermediate_sql_for_data
-	url = https://github.com/thomasnield/oreilly_intermediate_sql_for_data.git
+	url = https://github.com/eo1989/thomasnield--oreilly_intermediate_sql_for_data.git
 [submodule "oreilly_machine_learning_from_scratch"]
 	path = oreilly_machine_learning_from_scratch
-	url = https://github.com/thomasnield/oreilly_machine_learning_from_scratch.git
+	url = https://github.com/eo1989/thomasnield--oreilly_machine_learning_from_scratch.git
 [submodule "oreilly-probability-from-scratch"]
 	path = oreilly-probability-from-scratch
-	url = https://github.com/thomasnield/oreilly-probability-from-scratch.git
+	url = https://github.com/eo1989/thomasnield--oreilly-probability-from-scratch.git
 [submodule "data-science-at-the-command-line"]
 	path = data-science-at-the-command-line
-	url = https://github.com/jeroenjanssens/data-science-at-the-command-line.git
+	url = https://github.com/eo1989/jeroenjanssens--data-science-at-the-command-line.git
 [submodule "ThinkBayes2"]
 	path = ThinkBayes2
-	url = https://github.com/AllenDowney/ThinkBayes2.git
+	url = https://github.com/eo1989/AllenDowney--ThinkBayes2.git
 [submodule "JuliaForDataAnalysis"]
 	path = JuliaForDataAnalysis
-	url = https://github.com/bkamins/JuliaForDataAnalysis
+	url = https://github.com/eo1989/bkamins--JuliaForDataAnalysis.git
 [submodule "numerical_linear_algebra"]
 	path = numerical_linear_algebra
-	url = https://github.com/EricDarve/numerical_linear_algebra
+	url = https://github.com/eo1989/EricDarve--numerical_linear_algebra.git
 [submodule "Practical-Discrete-Mathematics"]
 	path = Practical-Discrete-Mathematics
-	url = https://github.com/PacktPublishing/Practical-Discrete-Mathematics
+	url = https://github.com/eo1989/PacktPublishing--Practical-Discrete-Mathematics.git
 [submodule "Polars-Cookbook"]
 	path = Polars-Cookbook
-	url = https://github.com/PacktPublishing/Polars-Cookbook
+	url = https://github.com/eo1989/PacktPublishing--Polars-Cookbook.git
 [submodule "Mastering-Julia-Second-Edition"]
 	path = Mastering-Julia-Second-Edition
-	url = https://github.com/PacktPublishing/Mastering-Julia-Second-Edition
-[submodule "Time-Series-Analysis-with-Python-Cookbook-Second-Edition"]
-	path = Time-Series-Analysis-with-Python-Cookbook-Second-Edition
-	url = https://github.com/PacktPublishing/Time-Series-Analysis-with-Python-Cookbook-Second-Edition
+	url = https://github.com/eo1989/PacktPublishing--Mastering-Julia-Second-Edition.git
 [submodule "Time-Series-Analysis-with-Spark"]
 	path = Time-Series-Analysis-with-Spark
-	url = https://github.com/PacktPublishing/Time-Series-Analysis-with-Spark
+	url = https://github.com/eo1989/PacktPublishing--Time-Series-Analysis-with-Spark.git
 [submodule "XGBoost-for-Regression-Predictive-Modeling-and-Time-Series-Analysis"]
 	path = XGBoost-for-Regression-Predictive-Modeling-and-Time-Series-Analysis
-	url = https://github.com/PacktPublishing/XGBoost-for-Regression-Predictive-Modeling-and-Time-Series-Analysis
-[submodule "R-Ultimate-2024---R-for-Data-Science-and-Machine-Learning"]
-	path = R-Ultimate-2024---R-for-Data-Science-and-Machine-Learning
-	url = https://github.com/PacktPublishing/R-Ultimate-2024---R-for-Data-Science-and-Machine-Learning
+	url = https://github.com/eo1989/PacktPublishing--XGBoost-for-Regression-Predictive-Modeling-and-Time-Series-Analysis.git
 [submodule "Interactive-Visualization-and-Plotting-with-Julia"]
 	path = Interactive-Visualization-and-Plotting-with-Julia
-	url = https://github.com/PacktPublishing/Interactive-Visualization-and-Plotting-with-Julia
+	url = https://github.com/eo1989/PacktPublishing--Interactive-Visualization-and-Plotting-with-Julia.git
 [submodule "Web-Development-with-Julia-and-Genie"]
 	path = Web-Development-with-Julia-and-Genie
-	url = https://github.com/PacktPublishing/Web-Development-with-Julia-and-Genie
+	url = https://github.com/eo1989/PacktPublishing--Web-Development-with-Julia-and-Genie.git
 [submodule "BAP3"]
 	path = BAP3
-	url = https://github.com/aloctavodia/BAP3.git
+	url = https://github.com/eo1989/aloctavodia--BAP3.git
 [submodule "Python-Object-Oriented-Programming-5thed"]
 	path = Python-Object-Oriented-Programming-5thed
-	url = https://github.com/slott56/Python-Object-Oriented-Programming-5thed.git
+	url = https://github.com/eo1989/slott56--Python-Object-Oriented-Programming-5thed.git
 [submodule "Bioinformatics-with-Python-Cookbook-4ed"]
 	path = Bioinformatics-with-Python-Cookbook-4ed
-	url = https://github.com/PacktPublishing/Bioinformatics-with-Python-Cookbook-Fourth-Edition.git
+	url = https://github.com/eo1989/PacktPublishing--Bioinformatics-with-Python-Cookbook-Fourth-Edition.git
 [submodule "Data-Engineering-with-Databricks-Cookbook"]
 	path = Data-Engineering-with-Databricks-Cookbook
-	url = https://github.com/PacktPublishing/Data-Engineering-with-Databricks-Cookbook.git
+	url = https://github.com/eo1989/PacktPublishing--Data-Engineering-with-Databricks-Cookbook.git
 [submodule "Deep-Learning-for-Time-Series-Data-Cookbook"]
 	path = Deep-Learning-for-Time-Series-Data-Cookbook
-	url = https://github.com/PacktPublishing/Deep-Learning-for-Time-Series-Data-Cookbook.git
+	url = https://github.com/eo1989/PacktPublishing--Deep-Learning-for-Time-Series-Data-Cookbook.git
 [submodule "Data-Analytics-for-Marketing"]
 	path = Data-Analytics-for-Marketing
-	url = https://github.com/PacktPublishing/Data-Analytics-for-Marketing.git
+	url = https://github.com/eo1989/PacktPublishing--Data-Analytics-for-Marketing.git
 [submodule "Building-ETL-Pipelines-with-Python"]
 	path = Building-ETL-Pipelines-with-Python
-	url = https://github.com/PacktPublishing/Building-ETL-Pipelines-with-Python.git
+	url = https://github.com/eo1989/PacktPublishing--Building-ETL-Pipelines-with-Python.git
 [submodule "Getting-Started-with-DuckDB"]
 	path = Getting-Started-with-DuckDB
-	url = https://github.com/PacktPublishing/Getting-Started-with-DuckDB.git
+	url = https://github.com/eo1989/PacktPublishing--Getting-Started-with-DuckDB.git
 [submodule "Casual-Inference-and-Discovery-in-Python"]
 	path = Casual-Inference-and-Discovery-in-Python
-	url = https://github.com/PacktPublishing/Causal-Inference-and-Discovery-in-Python.git
+	url = https://github.com/eo1989/PacktPublishing--Causal-Inference-and-Discovery-in-Python.git
 [submodule "HandsOn-Data-Preprocessing-in-Python"]
 	path = HandsOn-Data-Preprocessing-in-Python
-	url = https://github.com/PacktPublishing/Hands-On-Data-Preprocessing-in-Python.git
+	url = https://github.com/eo1989/PacktPublishing--Hands-On-Data-Preprocessing-in-Python.git
 [submodule "Machine-Learning-Engineering-with-Python-2E"]
 	path = Machine-Learning-Engineering-with-Python-2E
-	url = https://github.com/PacktPublishing/Machine-Learning-Engineering-with-Python-Second-Edition.git
+	url = https://github.com/eo1989/PacktPublishing--Machine-Learning-Engineering-with-Python-Second-Edition.git
 [submodule "Principles-of-Data-Science-3E"]
 	path = Principles-of-Data-Science-3E
-	url = https://github.com/PacktPublishing/Principles-of-Data-Science-Third-Edition.git
+	url = https://github.com/eo1989/PacktPublishing--Principles-of-Data-Science-Third-Edition.git
 [submodule "15-Math-Concepts-Every-DS-Should-Know"]
 	path = 15-Math-Concepts-Every-DS-Should-Know
-	url = https://github.com/PacktPublishing/15-Math-Concepts-Every-Data-Scientist-Should-Know.git
+	url = https://github.com/eo1989/PacktPublishing--15-Math-Concepts-Every-Data-Scientist-Should-Know.git
 [submodule "Modern-Python-Cookbook-3E"]
 	path = Modern-Python-Cookbook-3E
-	url = https://github.com/PacktPublishing/Modern-Python-Cookbook-Third-Edition.git
+	url = https://github.com/eo1989/PacktPublishing--Modern-Python-Cookbook-Third-Edition.git
 [submodule "Practical-Approach-to-TS-Forecasting-using-Python"]
 	path = Practical-Approach-to-TS-Forecasting-using-Python
-	url = https://github.com/PacktPublishing/A-Practical-Approach-to-Timeseries-Forecasting-using-Python.git
+	url = https://github.com/eo1989/PacktPublishing--A-Practical-Approach-to-Timeseries-Forecasting-using-Python.git
 [submodule "Enhancing-DL-with-Bayesian-Inference"]
 	path = Enhancing-DL-with-Bayesian-Inference
-	url = https://github.com/PacktPublishing/Enhancing-Deep-Learning-with-Bayesian-Inference.git
+	url = https://github.com/eo1989/PacktPublishing--Enhancing-Deep-Learning-with-Bayesian-Inference.git
 [submodule "Data-analysis-with-Polars"]
 	path = Data-analysis-with-Polars
-	url = https://github.com/PacktPublishing/Data-Analysis-with-Polars.git
+	url = https://github.com/eo1989/PacktPublishing--Data-Analysis-with-Polars.git
 [submodule "Casaul-Inference-with-Bayesian-Networks"]
 	path = Casaul-Inference-with-Bayesian-Networks
-	url = https://github.com/PacktPublishing/Causal-Inference-with-Bayesian-Networks.git
+	url = https://github.com/eo1989/PacktPublishing--Causal-Inference-with-Bayesian-Networks.git
 [submodule "MSFT-Power-Apps-Cookbook-3E"]
 	path = MSFT-Power-Apps-Cookbook-3E
-	url = https://github.com/PacktPublishing/Microsoft-Power-Apps-Cookbook-Third-Edition.git
+	url = https://github.com/eo1989/PacktPublishing--Microsoft-Power-Apps-Cookbook-Third-Edition.git
 [submodule "Apache-Airflow-Best-Practices"]
 	path = Apache-Airflow-Best-Practices
-	url = https://github.com/PacktPublishing/Apache-Airflow-Best-Practices.git
+	url = https://github.com/eo1989/PacktPublishing--Apache-Airflow-Best-Practices.git
 [submodule "Casual-Inference-in-R"]
 	path = Casual-Inference-in-R
-	url = https://github.com/PacktPublishing/Causal-Inference-in-R.git
+	url = https://github.com/eo1989/PacktPublishing--Causal-Inference-in-R.git
 [submodule "Building-Modern-Data-Apps-Using-DataBricks-Lakehouse"]
 	path = Building-Modern-Data-Apps-Using-DataBricks-Lakehouse
-	url = https://github.com/PacktPublishing/Building-Modern-Data-Applications-Using-Databricks-Lakehouse.git
+	url = https://github.com/eo1989/PacktPublishing--Building-Modern-Data-Applications-Using-Databricks-Lakehouse.git
 [submodule "HandsOn-SWE-with-Python-2E"]
 	path = HandsOn-SWE-with-Python-2E
-	url = https://github.com/PacktPublishing/Hands-On-Software-Engineering-with-Python-Second-Edition.git
+	url = https://github.com/eo1989/PacktPublishing--Hands-On-Software-Engineering-with-Python-Second-Edition.git
 [submodule "Building-Interactive-Dashboards-in-MSFT-365-Excel"]
 	path = Building-Interactive-Dashboards-in-MSFT-365-Excel
-	url = https://github.com/PacktPublishing/Building-Interactive-Dashboards-in-Microsoft-365-Excel.git
+	url = https://github.com/eo1989/PacktPublishing--Building-Interactive-Dashboards-in-Microsoft-365-Excel.git
 [submodule "Plotly-Dash-Cookbook"]
 	path = Plotly-Dash-Cookbook
-	url = https://github.com/PacktPublishing/Plotly-Dash-Cookbook.git
+	url = https://github.com/eo1989/PacktPublishing--Plotly-Dash-Cookbook.git
 [submodule "BioStatistics-with-Python"]
 	path = BioStatistics-with-Python
-	url = https://github.com/PacktPublishing/Biostatistics-with-Python.git
+	url = https://github.com/eo1989/PacktPublishing--Biostatistics-with-Python.git
 [submodule "Streamlit-Cookbook"]
 	path = Streamlit-Cookbook
-	url = https://github.com/PacktPublishing/Streamlit-Cookbook.git
+	url = https://github.com/eo1989/PacktPublishing--Streamlit-Cookbook.git
 [submodule "Implementing-Analytics-Solutions-Using-MSFT-Fabric-DP600-Exam-Study-Guide"]
 	path = Implementing-Analytics-Solutions-Using-MSFT-Fabric-DP600-Exam-Study-Guide
-	url = https://github.com/PacktPublishing/Implementing-Analytics-Solutions-Using-Microsoft-Fabric-DP-600-Exam-Study-Guide.git
+	url = https://github.com/eo1989/PacktPublishing--Implementing-Analytics-Solutions-Using-Microsoft-Fabric-DP-600-Exam-Study-Guide.git
 [submodule "Learn-MSFT-PowerBI-3E"]
 	path = Learn-MSFT-PowerBI-3E
-	url = https://github.com/PacktPublishing/Learn-Microsoft-Power-BI_3E.git
+	url = https://github.com/eo1989/PacktPublishing--Learn-Microsoft-Power-BI_3E.git
 [submodule "Modern-TS-Forecasting-with-Python-2E"]
 	path = Modern-TS-Forecasting-with-Python-2E
-	url = https://github.com/PacktPublishing/Modern-Time-Series-Forecasting-with-Python-2E.git
+	url = https://github.com/eo1989/PacktPublishing--Modern-Time-Series-Forecasting-with-Python-2E.git
 [submodule "Data-Engineering-Best-Practices"]
 	path = Data-Engineering-Best-Practices
-	url = https://github.com/PacktPublishing/Data-Engineering-Best-Practices.git
+	url = https://github.com/eo1989/PacktPublishing--Data-Engineering-Best-Practices.git
 [submodule "Master-Data-Structures-and-Algorithms-Interviews"]
 	path = Master-Data-Structures-and-Algorithms-Interviews
-	url = https://github.com/PacktPublishing/-Master-Data-Structures-and-Algorithms-Interviews---Ace-Leetcode-Blind-75-.git
+	url = https://github.com/eo1989/PacktPublishing---Master-Data-Structures-and-Algorithms-Interviews---Ace-Leetcode-Blind-75-.git
 [submodule "Sklearn-Cookbook-3E"]
 	path = Sklearn-Cookbook-3E
-	url = https://github.com/PacktPublishing/Scikit-Learn-Cookbook-Third-Edition.git
+	url = https://github.com/eo1989/PacktPublishing--Scikit-Learn-Cookbook-Third-Edition.git
 [submodule "Extending-PowerBI-with-Python-R-2E"]
 	path = Extending-PowerBI-with-Python-R-2E
-	url = https://github.com/PacktPublishing/Extending-Power-BI-with-Python-and-R-2nd-edition.git
+	url = https://github.com/eo1989/PacktPublishing--Extending-Power-BI-with-Python-and-R-2nd-edition.git
 [submodule "Modern-DevOps-Practices-2E"]
 	path = Modern-DevOps-Practices-2E
-	url = https://github.com/PacktPublishing/Modern-DevOps-Practices-2e.git
+	url = https://github.com/eo1989/PacktPublishing--Modern-DevOps-Practices-2e.git
 [submodule "Applied-Computational-Thinking-with-Python-2E"]
 	path = Applied-Computational-Thinking-with-Python-2E
-	url = https://github.com/PacktPublishing/Applied-Computational-Thinking-with-Python-Second-Edition.git
-[submodule "Deep-Learning-Architect-Handbook"]
-	path = Deep-Learning-Architect-Handbook
-	url = https://github.com/PacktPublishing/The-Deep-Learning-Architect-Handbook.git
+	url = https://github.com/eo1989/PacktPublishing--Applied-Computational-Thinking-with-Python-Second-Edition.git
 [submodule "Learning-Grafana10"]
 	path = Learning-Grafana10
-	url = https://github.com/PacktPublishing/Learn-Grafana-10.git
+	url = https://github.com/eo1989/PacktPublishing--Learn-Grafana-10.git
 [submodule "ML-for-Imbalanced-Data"]
 	path = ML-for-Imbalanced-Data
-	url = https://github.com/PacktPublishing/Machine-Learning-for-Imbalanced-Data.git
-[submodule "Learning-Geospatial-Analysis-with-Python-4E"]
-	path = Learning-Geospatial-Analysis-with-Python-4E
-	url = https://github.com/PacktPublishing/Learning-Geospatial-Analysis-with-Python-Fourth-Edition.git
+	url = https://github.com/eo1989/PacktPublishing--Machine-Learning-for-Imbalanced-Data.git
 [submodule "Practical-ML-on-Databricks"]
 	path = Practical-ML-on-Databricks
-	url = https://github.com/PacktPublishing/Practical-Machine-Learning-on-Databricks.git
+	url = https://github.com/eo1989/PacktPublishing--Practical-Machine-Learning-on-Databricks.git
 [submodule "Python-DL-3E"]
 	path = Python-DL-3E
-	url = https://github.com/PacktPublishing/Python-Deep-Learning-Third-Edition.git
+	url = https://github.com/eo1989/PacktPublishing--Python-Deep-Learning-Third-Edition.git
 [submodule "Stats-and-ML-with-R-Workshop"]
 	path = Stats-and-ML-with-R-Workshop
-	url = https://github.com/PacktPublishing/The-Statistics-and-Machine-Learning-with-R-Workshop.git
+	url = https://github.com/eo1989/PacktPublishing--The-Statistics-and-Machine-Learning-with-R-Workshop.git
 [submodule "Geospatial-Analysis-with-SQL"]
 	path = Geospatial-Analysis-with-SQL
-	url = https://github.com/PacktPublishing/Geospatial-Analysis-with-SQL.git
+	url = https://github.com/eo1989/PacktPublishing--Geospatial-Analysis-with-SQL.git
 [submodule "Debugging-ML-Models-with-Python"]
 	path = Debugging-ML-Models-with-Python
-	url = https://github.com/PacktPublishing/Debugging-Machine-Learning-Models-with-Python.git
+	url = https://github.com/eo1989/PacktPublishing--Debugging-Machine-Learning-Models-with-Python.git
 [submodule "Building-Stats-Models-with-Python"]
 	path = Building-Stats-Models-with-Python
-	url = https://github.com/PacktPublishing/Building-Statistical-Models-in-Python.git
+	url = https://github.com/eo1989/PacktPublishing--Building-Statistical-Models-in-Python.git
 [submodule "Handbook-of-Mathematical-Models-with-Python"]
 	path = Handbook-of-Mathematical-Models-with-Python
-	url = https://github.com/PacktPublishing/A-Handbook-of-Mathematical-Models-with-Python.git
+	url = https://github.com/eo1989/PacktPublishing--A-Handbook-of-Mathematical-Models-with-Python.git
 [submodule "Building-DS-Apps-with-FastAPI-2E"]
 	path = Building-DS-Apps-with-FastAPI-2E
-	url = https://github.com/PacktPublishing/Building-Data-Science-Applications-with-FastAPI-Second-Edition.git
+	url = https://github.com/eo1989/PacktPublishing--Building-Data-Science-Applications-with-FastAPI-Second-Edition.git
 [submodule "Data-Wrangling-with-SQL"]
 	path = Data-Wrangling-with-SQL
-	url = https://github.com/PacktPublishing/Data-Wrangling-with-SQL.git
+	url = https://github.com/eo1989/PacktPublishing--Data-Wrangling-with-SQL.git
 [submodule "Tableau-Cookbook-for-Experienced-Pros"]
 	path = Tableau-Cookbook-for-Experienced-Pros
-	url = https://github.com/PacktPublishing/Tableau-Cookbook-for-Experienced-Professionals.git
+	url = https://github.com/eo1989/PacktPublishing--Tableau-Cookbook-for-Experienced-Professionals.git
 [submodule "Async-Programming-with-Python"]
 	path = Async-Programming-with-Python
-	url = https://github.com/PacktPublishing/Asynchronous-Programming-in-Python.git
+	url = https://github.com/eo1989/PacktPublishing--Asynchronous-Programming-in-Python.git
 [submodule "Data-Viz-for-Advanced-Analytics-with-Tableau"]
 	path = Data-Viz-for-Advanced-Analytics-with-Tableau
-	url = https://github.com/PacktPublishing/Data-Visualization-for-Advanced-Analytics-with-Tableau.git
+	url = https://github.com/eo1989/PacktPublishing--Data-Visualization-for-Advanced-Analytics-with-Tableau.git
 [submodule "MSFT-PowerBI-Performance-Best-Practices-2E"]
 	path = MSFT-PowerBI-Performance-Best-Practices-2E
-	url = https://github.com/PacktPublishing/Microsoft-Power-BI-Performance-Best-Practices-Second-Edition.git
+	url = https://github.com/eo1989/PacktPublishing--Microsoft-Power-BI-Performance-Best-Practices-Second-Edition.git
 [submodule "Deep-Learning-with-PyTorch"]
 	path = Deep-Learning-with-PyTorch
-	url = https://github.com/PacktPublishing/Deep-Learning-with-PyTorch.git
+	url = https://github.com/eo1989/PacktPublishing--Deep-Learning-with-PyTorch.git
 [submodule "PowerBI-Cookbook-3E"]
 	path = PowerBI-Cookbook-3E
-	url = https://github.com/PacktPublishing/Power-BI-Cookbook-Third-Edition.git
+	url = https://github.com/eo1989/PacktPublishing--Power-BI-Cookbook-Third-Edition.git
 [submodule "FastAPI-Cookbook"]
 	path = FastAPI-Cookbook
-	url = https://github.com/PacktPublishing/FastAPI-Cookbook.git
+	url = https://github.com/eo1989/PacktPublishing--FastAPI-Cookbook.git
 [submodule "Python-for-Algorithmic-Trading-Cookbook"]
 	path = Python-for-Algorithmic-Trading-Cookbook
-	url = https://github.com/PacktPublishing/Python-for-Algorithmic-Trading-Cookbook.git
+	url = https://github.com/eo1989/PacktPublishing--Python-for-Algorithmic-Trading-Cookbook.git
 [submodule "In-Memory-Analytics-with-Apache-Arrow-2E"]
 	path = In-Memory-Analytics-with-Apache-Arrow-2E
-	url = https://github.com/PacktPublishing/In-Memory-Analytics-with-Apache-Arrow-Second-Edition.git
+	url = https://github.com/eo1989/PacktPublishing--In-Memory-Analytics-with-Apache-Arrow-Second-Edition.git
 [submodule "Options-Pricing-with-Python"]
 	path = Options-Pricing-with-Python
-	url = https://github.com/PacktPublishing/Options-Pricing-with-Python.git
+	url = https://github.com/eo1989/PacktPublishing--Options-Pricing-with-Python.git
 [submodule "Python-Data-Scleaning-and-Prep-Best-Practices"]
 	path = Python-Data-Scleaning-and-Prep-Best-Practices
-	url = https://github.com/PacktPublishing/Python-Data-Cleaning-and-Preparation-Best-Practices.git
+	url = https://github.com/eo1989/PacktPublishing--Python-Data-Cleaning-and-Preparation-Best-Practices.git
 [submodule "Julia-Quick-Syntax-Reference-2E"]
 	path = Julia-Quick-Syntax-Reference-2E
-	url = https://github.com/Apress/Julia-Quick-Syntax-Reference-2nd-ed.git
+	url = https://github.com/eo1989/Apress--Julia-Quick-Syntax-Reference-2nd-ed.git
 [submodule "Snowflake-Recipes"]
 	path = Snowflake-Recipes
-	url = https://github.com/Apress/Snowflake-Recipes.git
+	url = https://github.com/eo1989/Apress--Snowflake-Recipes.git
 [submodule "Learn-DS-Using-Python"]
 	path = Learn-DS-Using-Python
-	url = https://github.com/Apress/Learn-Data-Science-Using-Python.git
+	url = https://github.com/eo1989/Apress--Learn-Data-Science-Using-Python.git
 [submodule "Haskell/Magical-Haskell"]
 	path = Haskell/Magical-Haskell
-	url = https://github.com/Apress/Magical-Haskell.git
+	url = https://github.com/eo1989/Apress--Magical-Haskell.git
 [submodule "Statistical-Quantitative-Methods-in-Finance"]
 	path = Statistical-Quantitative-Methods-in-Finance
-	url = https://github.com/Apress/Statistical-Quantitative-Methods-in-Finance.git
+	url = https://github.com/eo1989/Apress--Statistical-Quantitative-Methods-in-Finance.git
 [submodule "Stochastic-Finance-with-Python"]
 	path = Stochastic-Finance-with-Python
-	url = https://github.com/Apress/Stochastic-Finance-with-Python.git
+	url = https://github.com/eo1989/Apress--Stochastic-Finance-with-Python.git
 [submodule "Essential-Data-Analytics-DS-and-AI"]
 	path = Essential-Data-Analytics-DS-and-AI
-	url = https://github.com/Apress/Essential-Data-Analytics-Data-Science-and-AI.git
+	url = https://github.com/eo1989/Apress--Essential-Data-Analytics-Data-Science-and-AI.git
 [submodule "Databricks-Data-Intelligence-Platform"]
 	path = Databricks-Data-Intelligence-Platform
-	url = https://github.com/Apress/Databricks-Data-Intelligence-Platform.git
+	url = https://github.com/eo1989/Apress--Databricks-Data-Intelligence-Platform.git
 [submodule "Income-Statement-Semantic-Models"]
 	path = Income-Statement-Semantic-Models
-	url = https://github.com/Apress/Income-Statement-Semantic-Models.git
+	url = https://github.com/eo1989/Apress--Income-Statement-Semantic-Models.git
 [submodule "HandsOn-Deep-Learning"]
 	path = HandsOn-Deep-Learning
-	url = https://github.com/Apress/Hands-on-Deep-Learning.git
+	url = https://github.com/eo1989/Apress--Hands-on-Deep-Learning.git
 [submodule "Numerical-Python-3E"]
 	path = Numerical-Python-3E
-	url = https://github.com/Apress/Numerical-Python-3rd-ed.git
+	url = https://github.com/eo1989/Apress--Numerical-Python-3rd-ed.git
 [submodule "Prototyping-Python-Dashboards-for-Scientists-and-Engineers"]
 	path = Prototyping-Python-Dashboards-for-Scientists-and-Engineers
-	url = https://github.com/Apress/Prototyping-Python-Dashboards-for-Scientists-and-Engineers.git
+	url = https://github.com/eo1989/Apress--Prototyping-Python-Dashboards-for-Scientists-and-Engineers.git
 [submodule "Leveling-Up-SQL"]
 	path = Leveling-Up-SQL
-	url = https://github.com/Apress/leveling-up-sql.git
+	url = https://github.com/eo1989/Apress--leveling-up-sql.git
 [submodule "Web-Scraping-with-Python"]
 	path = Web-Scraping-with-Python
-	url = https://github.com/Apress/Web-Scraping-with-Python.git
+	url = https://github.com/eo1989/Apress--Web-Scraping-with-Python.git
 [submodule "Deep-Reinforcement-Learning-with-Python"]
 	path = Deep-Reinforcement-Learning-with-Python
-	url = https://github.com/Apress/Deep-Reinforcement-Learning-with-Python.git
-[submodule "SQL-Server-Analytical-Toolkit"]
-	path = SQL-Server-Analytical-Toolkit
-	url = https://github.com/Apress/SQL-Server-Analytical-Toolkit.git
-[submodule "Art-of-Reinforcement-Learning"]
-	path = Art-of-Reinforcement-Learning
-	url = https://github.com/Apress/art-of-reinforcement-learning.git
+	url = https://github.com/eo1989/Apress--Deep-Reinforcement-Learning-with-Python.git
 [submodule "Mathematica/Beginning-Mathematica-and-Wolfram-for-DS-2E"]
 	path = Mathematica/Beginning-Mathematica-and-Wolfram-for-DS-2E
-	url = https://github.com/Apress/Beginning-Mathematica-and-Wolfram-for-Data-Science-2nd-ed.git
+	url = https://github.com/eo1989/Apress--Beginning-Mathematica-and-Wolfram-for-Data-Science-2nd-ed.git
 [submodule "Mastering-MSFT-Fabric"]
 	path = Mastering-MSFT-Fabric
-	url = https://github.com/Apress/Mastering_Microsoft_Fabric.git
+	url = https://github.com/eo1989/Apress--Mastering_Microsoft_Fabric.git
 [submodule "Quantitative-Trading-Strategies-Using-Python"]
 	path = Quantitative-Trading-Strategies-Using-Python
-	url = https://github.com/Apress/Quantitative-Trading-Strategies-Using-Python
+	url = https://github.com/eo1989/Apress--Quantitative-Trading-Strategies-Using-Python.git
 [submodule "PowerBI-Compendium"]
 	path = PowerBI-Compendium
-	url = https://github.com/Apress/A-Power-BI-Compendium.git
+	url = https://github.com/eo1989/Apress--A-Power-BI-Compendium.git
 [submodule "Essential-Guide-to-HTML5-3E"]
 	path = Essential-Guide-to-HTML5-3E
-	url = https://github.com/Apress/The-Essential-Guide-to-HTML5-3rd-Edition-by-Jeanine-Meyer.git
+	url = https://github.com/eo1989/Apress--The-Essential-Guide-to-HTML5-3rd-Edition-by-Jeanine-Meyer.git
 [submodule "Go/Pro-Go"]
 	path = Go/Pro-Go
-	url = https://github.com/Apress/pro-go.git
+	url = https://github.com/eo1989/Apress--pro-go.git
 [submodule "Finding-Ghosts-In-Your-Data"]
 	path = Finding-Ghosts-In-Your-Data
-	url = https://github.com/Apress/finding-ghosts-in-your-data.git
+	url = https://github.com/eo1989/Apress--finding-ghosts-in-your-data.git
 [submodule "Python-Data-Analytics-3E"]
 	path = Python-Data-Analytics-3E
-	url = https://github.com/Apress/python-data-analytics-3e.git
+	url = https://github.com/eo1989/Apress--python-data-analytics-3e.git
 [submodule "Building-High-Performance-WebApps-with-FastAPI"]
 	path = Building-High-Performance-WebApps-with-FastAPI
-	url = https://github.com/Apress/Build-High-Performance-Web-Apps-with-FastAPI-by-Malhar-Lathkar.git
+	url = https://github.com/eo1989/Apress--Build-High-Performance-Web-Apps-with-FastAPI-by-Malhar-Lathkar.git
 [submodule "Typescript/Essential-Typescript"]
 	path = Typescript/Essential-Typescript
-	url = https://github.com/Apress/essential-typescript.git
+	url = https://github.com/eo1989/Apress--essential-typescript.git
 [submodule "HandsOn-Guide-Apache-Spark3"]
 	path = HandsOn-Guide-Apache-Spark3
-	url = https://github.com/Apress/hands-on-guide-apache-spark-3.git
+	url = https://github.com/eo1989/Apress--hands-on-guide-apache-spark-3.git
 [submodule "Functional-Programming-in-R4"]
 	path = Functional-Programming-in-R4
-	url = https://github.com/Apress/functional-programming-r4.git
+	url = https://github.com/eo1989/Apress--functional-programming-r4.git
 [submodule "Practical-Business-Analytics-Using-Python-and-R"]
 	path = Practical-Business-Analytics-Using-Python-and-R
-	url = https://github.com/Apress/practical-business-analytics-r-python.git
+	url = https://github.com/eo1989/Apress--practical-business-analytics-r-python.git
 [submodule "Bayesian-Optimization"]
 	path = Bayesian-Optimization
-	url = https://github.com/Apress/Bayesian-optimization.git
+	url = https://github.com/eo1989/Apress--Bayesian-optimization.git
 [submodule "Time-Series-Algorithm-Recipes"]
 	path = Time-Series-Algorithm-Recipes
-	url = https://github.com/Apress/time-series-algorithm-recipes.git
+	url = https://github.com/eo1989/Apress--time-series-algorithm-recipes.git
 [submodule "PyTorch-Recipes-2E"]
 	path = PyTorch-Recipes-2E
-	url = https://github.com/Apress/pytorch-recipes-2e.git
+	url = https://github.com/eo1989/Apress--pytorch-recipes-2e.git
 [submodule "Modern-Deep-Learning-for-Tabular-Data"]
 	path = Modern-Deep-Learning-for-Tabular-Data
-	url = https://github.com/Apress/modern-deep-learning-tabular-data.git
+	url = https://github.com/eo1989/Apress--modern-deep-learning-tabular-data.git
 [submodule "Reinforcement-Learning-for-Finance"]
 	path = Reinforcement-Learning-for-Finance
-	url = https://github.com/Apress/reinforcement-learning-finance.git
+	url = https://github.com/eo1989/Apress--reinforcement-learning-finance.git
 [submodule "Synthetic-Data-for-Deep-Learning"]
 	path = Synthetic-Data-for-Deep-Learning
-	url = https://github.com/Apress/synthetic-data-deep-learning.git
+	url = https://github.com/eo1989/Apress--synthetic-data-deep-learning.git
 [submodule "Beginners-Guide-to-Streamlit-with-Python"]
 	path = Beginners-Guide-to-Streamlit-with-Python
-	url = https://github.com/Apress/beginners-guide-streamlit-python.git
+	url = https://github.com/eo1989/Apress--beginners-guide-streamlit-python.git
 [submodule "Implementing-Analytics-Solutions-Using-Microsoft-Fabric-DP-600-Exam-Study-Guide"]
 	path = Implementing-Analytics-Solutions-Using-Microsoft-Fabric-DP-600-Exam-Study-Guide
-	url = https://github.com/PacktPublishing/Implementing-Analytics-Solutions-Using-Microsoft-Fabric-DP-600-Exam-Study-Guide
+	url = https://github.com/eo1989/PacktPublishing--Implementing-Analytics-Solutions-Using-Microsoft-Fabric-DP-600-Exam-Study-Guide.git
 [submodule "Data-Augmentation-with-Python"]
 	path = Data-Augmentation-with-Python
-	url = https://github.com/PacktPublishing/Data-Augmentation-with-Python.git
+	url = https://github.com/eo1989/PacktPublishing--Data-Augmentation-with-Python.git
 
 # vim: set ft=gitconfig commentstring=#

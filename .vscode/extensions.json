@@ -1,5 +1,12 @@
 {
-	"recommendations": [
-		"ms-toolsai.jupyter-renderers"
-	]
+  "recommendations": [
+    "ms-toolsai.jupyter-renderers",
+    "babyfox1306.pdf-forge",
+    "vscode-md-yaml-lint.md-yaml-lint",
+    "executablebookproject.myst-highlight",
+    "fnando.linter",
+    "darkriszty.markdown-table-prettify",
+    "szpro.ultimatehover",
+    "ntluong95.quarto-wingman"
+  ]
 }

@@ -4,7 +4,7 @@ jupyter:
     text_representation:
       extension: .qmd
       format_name: quarto
-      format_version: '1.0'
+      format_version: "1.0"
       jupytext_version: 1.18.1
   kernelspec:
     display_name: Python 3
